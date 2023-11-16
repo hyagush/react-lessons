@@ -1,0 +1,14 @@
+.myButton {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 30px;
+    padding-left: 30px;
+    font-size: 18px;
+    color: #181326;
+    border-radius: 4px;
+    background-color: #a6f750;
+}
+
+.myButton:nth-last-child(1) {    
+    background-color: red;
+}
